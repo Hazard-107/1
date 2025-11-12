@@ -37,6 +37,8 @@ wheels/
 output/
 ml-1m/
 *.log
+preprocessed_movielens_simple.csv
+sample_preprocessed.csv
 
 # OS
 .DS_Store
